@@ -318,6 +318,7 @@ A detailed walkthrough about this lab and my findings here:
 (https://dghostninja.github.io/posts/Vulnerable-Bank-API/)
 
 👉 Detailed Walkthrough by [CyberPreacher](https://www.linkedin.com/in/cyber-preacher/)
+
 (https://medium.com/@cyberpreacher_/hacking-vulnerable-bank-api-extensive-d2a0d3bb209e)
 
 > Ethical hacking only. Scope respected. Coffee consumed. ☕
